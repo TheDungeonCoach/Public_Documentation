@@ -13,3 +13,4 @@ KMP is not 100% stable across all platforms and not all parts of how things shou
 # This App
 In this github repo you'll find a collection of documenting graphics that will aid onboard our (new) developers and understand some concepts regarding naming, data models and KMP/Android conventions. It will not teach anyone how to do KMP or actually develop - but hopefully aid anyone trying to understand what Nik have been up to!
 
+![image](https://github.com/TheDungeonCoach/Public_Documentation/blob/main/Full%20doc.png)
